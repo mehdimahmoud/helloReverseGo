@@ -1,5 +1,5 @@
 /*
- * First Library
+ * Example of how to use our own built Library
  * Prints the reverse string
  */
 package main
